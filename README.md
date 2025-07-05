@@ -1,4 +1,4 @@
-## Simple Linear Regression
+## Multiple Linear Regression
 
 > ### 1. Simulate a dataset of 100 rows with the following:
 
